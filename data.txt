@@ -1,0 +1,1 @@
+query_id=AAE7ArAMAwAAADsCsAygh_o-&user=%7B%22id%22%3A6655312443%2C%22first_name%22%3A%22Mujahid%F0%9F%8C%B1SEED%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22MujjoTrader%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727247639&hash=3e523bac9bccc54d6e001ad626ba2bf4aeb33298e324b83e2ebbd9a891152f93

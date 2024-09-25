@@ -1,0 +1,12 @@
+{
+  "accounts": [
+    {
+      "acc_info": 1"",
+      "proxy_info": "http://tvczsdew-rotate:812ob0986ihh@p.webshare.io/"
+    },
+    {
+      "acc_info": "",
+      "proxy_info": "http://user:pass@ip:port"
+    }
+  ]
+}
